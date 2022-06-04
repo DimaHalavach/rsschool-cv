@@ -4,7 +4,7 @@
 * ## **Location:** Minsk, Belarus
 * ## **Phone:** + 375 29 836 93 39
 * ## **E-mail:** gekfin91@gmail.com
-* ## **GitHub:** (https://github.com/DimaHalavach/rsschool-cv "DimaHalavach")
+* ## **GitHub:** [DimaHalavach](https://github.com/DimaHalavach/rsschool-cv "DimaHalavach")
 # **About Me**
 I am 30 years old, today I work as a  engineer of cooling, but tomorrow I'll JavaScript-developer
 # **Skills**
