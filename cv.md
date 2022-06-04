@@ -20,5 +20,5 @@ function multiply(a, b){
 # **Education**
 * Belarusian National Technical University
 # **Languages**
-* *Russian* - native speaker
-* *English* - A2
+* **Russian** - native speaker
+* **English** - A2
