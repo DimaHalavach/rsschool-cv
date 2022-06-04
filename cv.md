@@ -10,9 +10,9 @@ I am 30 years old, today I work as a  engineer of cooling, but tomorrow I'll Jav
 * Git/Github
 * VSCode
 # **Code Examples**
-function multilpy(a, b){
+'''function multilpy(a, b){
     return a * b
-}
+}'''
 # **Education**
 * Belarusian National Technical University
 # **Languages**
